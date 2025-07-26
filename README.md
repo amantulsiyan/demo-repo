@@ -17,10 +17,15 @@ Watching tutorial on YouTube.
 ### SOME LOCAL SUBHEADING ###
 
 Web development
+
 app development
+
 cyber security
+
 operating systems
+
 apple
+
 android
 
 
