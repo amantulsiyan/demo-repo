@@ -10,6 +10,17 @@ _This is me testing a new style of writing on github._
 
 ***Hello***
 
+
 ## SUBHEADER ##
 Watching tutorial on YouTube.
+
+### SOME LOCAL SUBHEADING ###
+
+Web development
+app development
+cyber security
+operating systems
+apple
+android
+
 
