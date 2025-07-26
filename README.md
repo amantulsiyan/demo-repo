@@ -28,4 +28,8 @@ apple
 
 android
 
+MACOS
+
+MACINTOSH
+
 
